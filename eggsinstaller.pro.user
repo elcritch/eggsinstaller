@@ -1,0 +1,349 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList" />
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString" >/mnt/common/jcreechl/src/eggsinstaller/eggsinstaller.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString" >eggsinstaller</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool" >false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString" >Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int" >0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString" >Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <value key="QtVersionId" type="int" >0</value>
+   <value key="buildDirectory" type="QString" >/mnt/common/jcreechl/src/eggsinstaller</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="QtVersionId" type="int" >0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >ANT_HOME=/usr/local/ant</value>
+    <value type="QString" >CCACHE_DIR=/mnt/common/jcreechl/ccache/</value>
+    <value type="QString" >CCACHE_LOGFILE=/mnt/common/jcreechl/ccache/CCache.log</value>
+    <value type="QString" >CLASSPATH=:/usr/local/java//lib/ext/j3dcore.jar:/usr/local/java//lib/ext/j3dutils.jar:/usr/local/java//lib/ext/vecmath.jar:/usr/local/java//lib/ext/j3dcore.jar:/usr/local/java//lib/ext/j3dutils.jar:/usr/local/java//lib/ext/vecmath.jar:/usr/local/java//lib/ext/j3dcore.jar:/usr/local/java//lib/ext/j3dutils.jar:/usr/local/java//lib/ext/vecmath.jar</value>
+    <value type="QString" >CLICOLOR=1</value>
+    <value type="QString" >COLORTERM=</value>
+    <value type="QString" >COMMON=/mnt/common/jcreechl</value>
+    <value type="QString" >CVS_RSH=ssh</value>
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-gTvD2NAKfJ,guid=ce39f94c990695dde2fc780049dcf699</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0</value>
+    <value type="QString" >FANOUT=64</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GEM_HOME=/tmp/jaremy/gem/</value>
+    <value type="QString" >GITPERLLIB=/home/students/jcreechl/bin/lib/perl5</value>
+    <value type="QString" >GIT_EXEC_PATH=/home/students/jcreechl/bin</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-Cpg9PA/S.gpg-agent:14972:1</value>
+    <value type="QString" >GS_LIB=/home/students/jcreechl/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/students/jcreechl/.gtkrc-2.0:/home/students/jcreechl/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/students/jcreechl/.gtkrc:/home/students/jcreechl/.kde/share/config/gtkrc</value>
+    <value type="QString" >G_BROKEN_FILENAMES=1</value>
+    <value type="QString" >HISTSIZE=500</value>
+    <value type="QString" >HOME=/home/students/jcreechl</value>
+    <value type="QString" >HOSTNAME=node03</value>
+    <value type="QString" >INPUTRC=/etc/inputrc</value>
+    <value type="QString" >JAVA_HOME=/usr/local/java/</value>
+    <value type="QString" >KDEDIRS=/usr</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_IS_PRELINKED=1</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=741</value>
+    <value type="QString" >KONSOLE_DCOP=DCOPRef(konsole-15047,konsole)</value>
+    <value type="QString" >KONSOLE_DCOP_SESSION=DCOPRef(konsole-15047,session-1)</value>
+    <value type="QString" >LANG=en_US.UTF-8</value>
+    <value type="QString" >LC_CTYPE=en_US.UTF-8</value>
+    <value type="QString" >LC_NUMERIC=C</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/students/jcreechl/lib:/home/students/jcreechl/bin/lib/perl5:.:/home/students/jcreechl/lib:/home/students/jcreechl/bin/lib/perl5:.::/usr/local/java//lib/i386:/usr/local/java//lib/i386</value>
+    <value type="QString" >LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString" >LOGNAME=jcreechl</value>
+    <value type="QString" >LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.svgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.dz=00;31:*.gz=00;31:*.bz2=00;31:*.tbz2=00;31:*.bz=00;31:*.tz=00;31:*.deb=00;31:*.rpm=00;31:*.jar=00;31:*.rar=00;31:*.ace=00;31:*.zoo=00;31:*.cpio=00;31:*.7z=00;31:*.rz=00;31:*.jpg=00;35:*.jpeg=00;35:*.gif=00;35:*.bmp=00;35:*.pbm=00;35:*.pgm=00;35:*.ppm=00;35:*.tga=00;35:*.xbm=00;35:*.xpm=00;35:*.tif=00;35:*.tiff=00;35:*.png=00;35:*.mng=00;35:*.pcx=00;35:*.mov=00;35:*.mpg=00;35:*.mpeg=00;35:*.m2v=00;35:*.mkv=00;35:*.ogm=00;35:*.mp4=00;35:*.m4v=00;35:*.mp4v=00;35:*.vob=00;35:*.qt=00;35:*.nuv=00;35:*.wmv=00;35:*.asf=00;35:*.rm=00;35:*.rmvb=00;35:*.flc=00;35:*.avi=00;35:*.fli=00;35:*.gl=00;35:*.dl=00;35:*.xcf=00;35:*.xwd=00;35:*.yuv=00;35:*.svg=00;35:</value>
+    <value type="QString" >MAIL=/var/spool/mail/jcreechl</value>
+    <value type="QString" >MANPATH=/usr/local/mpich2/man::/usr/local/pbs/man:/usr/local/mpich2/man::/usr/local/pbs/man:/usr/local/mpich2/man::/usr/local/pbs/man::/usr/share/pvm3/man:/usr/local/man/:/tmp/jaremy/share/man/:/usr/local/man/:/usr/share/pvm3/man:/usr/local/man/:/tmp/jaremy/share/man/:/usr/share/pvm3/man:/usr/local/man/:/tmp/jaremy/share/man/</value>
+    <value type="QString" >PATH=/mnt/common/jcreechl/lib/qtsdk-2009.01/qt/bin:/home/students/jcreechl/bin/:/mnt/common/jcreechl/bin/:/mnt/common/jcreechl/bin/:/home/students/jcreechl/bin:/usr/local/ant/bin:/usr/local/eclipse/:/usr/local/java/bin:/usr/local/bin:/usr/local/mpich2/bin:/usr/local/pbs/bin:/home/students/jcreechl/bin/:/mnt/common/jcreechl/bin/:/mnt/common/jcreechl/bin/:/home/students/jcreechl/bin:/usr/local/ant/bin:/usr/local/eclipse/:/usr/local/java/bin:/usr/local/bin:/usr/local/mpich2/bin:/usr/local/pbs/bin:/usr/local/bin/:/mnt/common/jcreechl/bin:/home/students/jcreechl/bin/:/mnt/common/jcreechl/bin/:/mnt/common/jcreechl/bin/:/home/students/jcreechl/bin:/usr/local/ant/bin:/usr/local/eclipse/:/usr/local/java/bin:/usr/local/bin:/usr/local/mpich2/bin:/usr/local/pbs/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/bin:/usr/lib/ccache:/mnt/common/jcreechl/bin:/usr/local/bin:/usr/bin:/bin:/home/students/jcreechl/bin:/usr/share/pvm3/lib:/home/students/jcreechl/pvm3/bin/LINUXI386::/usr/local/bin/:.:.:/usr/share/pvm3/lib:/home/students/jcreechl/pvm3/bin/LINUXI386::/usr/local/bin/:.:/usr/share/pvm3/lib:/home/students/jcreechl/pvm3/bin/LINUXI386::/usr/local/bin/:.</value>
+    <value type="QString" >PDSH_RCMD_TYPE=ssh</value>
+    <value type="QString" >PVM_ARCH=LINUXI386</value>
+    <value type="QString" >PVM_DEBUGGER=/usr/share/pvm3/lib/debugger.ddd</value>
+    <value type="QString" >PVM_DPATH=/usr/share/pvm3/lib/pvmd</value>
+    <value type="QString" >PVM_EXPORT=DISPLAY:PATH:PVM_DEBUGGER</value>
+    <value type="QString" >PVM_ROOT=/usr/share/pvm3</value>
+    <value type="QString" >PVM_RSH=/usr/bin/rsh</value>
+    <value type="QString" >PVM_TMP=/tmp</value>
+    <value type="QString" >PWD=/mnt/common/jcreechl/lib/qtsdk-2009.01/bin</value>
+    <value type="QString" >PYTHONPATH=/mnt/common/jcreechl/lib/python2.5/site-packages</value>
+    <value type="QString" >QTDIR=/mnt/common/jcreechl/lib/qtsdk-2009.01/qt</value>
+    <value type="QString" >QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString" >QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString" >SESSION_MANAGER=local/unix:/tmp/.ICE-unix/15003</value>
+    <value type="QString" >SHELL=/bin/zsh</value>
+    <value type="QString" >SHLVL=3</value>
+    <value type="QString" >SSH_AGENT_PID=14949</value>
+    <value type="QString" >SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-KqJnz14836/agent.14836</value>
+    <value type="QString" >TERM=xterm</value>
+    <value type="QString" >USER=jcreechl</value>
+    <value type="QString" >WINDOWID=35651592</value>
+    <value type="QString" >XAUTHORITY=/tmp/.gdm02CVRU</value>
+    <value type="QString" >XCURSOR_THEME=default</value>
+    <value type="QString" >XDG_CONFIG_DIRS=/etc/kde/xdg:/etc/xdg</value>
+    <value type="QString" >XDG_MENU_PREFIX=kde-</value>
+    <value type="QString" >XDG_SESSION_COOKIE=2855dbca0ad354577a44740048ad4f00-1239217816.757401-2071817024</value>
+    <value type="QString" >XEDITOR=gvim</value>
+    <value type="QString" >XPVM_ROOT=/usr/share/pvm3/xpvm</value>
+    <value type="QString" >_=/mnt/common/jcreechl/lib/qtsdk-2009.01/bin/qtcreator</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >/mnt/common/jcreechl/src/eggsinstaller/eggsinstaller.pro</value>
+    <value type="QString" >-spec</value>
+    <value type="QString" >linux-g++</value>
+    <value type="QString" >-r</value>
+    <value type="QString" >CONFIG+=debug_and_release</value>
+    <value type="QString" >CONFIG+=debug</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/mnt/common/jcreechl/lib/qtsdk-2009.01/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/mnt/common/jcreechl/src/eggsinstaller</value>
+   <value key="buildConfiguration" type="int" >10</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep2</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList" >
+    <value type="QString" >ANT_HOME=/usr/local/ant</value>
+    <value type="QString" >CCACHE_DIR=/mnt/common/jcreechl/ccache/</value>
+    <value type="QString" >CCACHE_LOGFILE=/mnt/common/jcreechl/ccache/CCache.log</value>
+    <value type="QString" >CLASSPATH=:/usr/local/java//lib/ext/j3dcore.jar:/usr/local/java//lib/ext/j3dutils.jar:/usr/local/java//lib/ext/vecmath.jar:/usr/local/java//lib/ext/j3dcore.jar:/usr/local/java//lib/ext/j3dutils.jar:/usr/local/java//lib/ext/vecmath.jar:/usr/local/java//lib/ext/j3dcore.jar:/usr/local/java//lib/ext/j3dutils.jar:/usr/local/java//lib/ext/vecmath.jar</value>
+    <value type="QString" >CLICOLOR=1</value>
+    <value type="QString" >COLORTERM=</value>
+    <value type="QString" >COMMON=/mnt/common/jcreechl</value>
+    <value type="QString" >CVS_RSH=ssh</value>
+    <value type="QString" >DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-gTvD2NAKfJ,guid=ce39f94c990695dde2fc780049dcf699</value>
+    <value type="QString" >DESKTOP_SESSION=kde</value>
+    <value type="QString" >DESKTOP_STARTUP_ID=</value>
+    <value type="QString" >DISPLAY=:0</value>
+    <value type="QString" >FANOUT=64</value>
+    <value type="QString" >GDMSESSION=kde</value>
+    <value type="QString" >GDM_XSERVER_LOCATION=local</value>
+    <value type="QString" >GEM_HOME=/tmp/jaremy/gem/</value>
+    <value type="QString" >GITPERLLIB=/home/students/jcreechl/bin/lib/perl5</value>
+    <value type="QString" >GIT_EXEC_PATH=/home/students/jcreechl/bin</value>
+    <value type="QString" >GPG_AGENT_INFO=/tmp/gpg-Cpg9PA/S.gpg-agent:14972:1</value>
+    <value type="QString" >GS_LIB=/home/students/jcreechl/.fonts</value>
+    <value type="QString" >GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/students/jcreechl/.gtkrc-2.0:/home/students/jcreechl/.kde/share/config/gtkrc-2.0</value>
+    <value type="QString" >GTK_RC_FILES=/etc/gtk/gtkrc:/home/students/jcreechl/.gtkrc:/home/students/jcreechl/.kde/share/config/gtkrc</value>
+    <value type="QString" >G_BROKEN_FILENAMES=1</value>
+    <value type="QString" >HISTSIZE=500</value>
+    <value type="QString" >HOME=/home/students/jcreechl</value>
+    <value type="QString" >HOSTNAME=node03</value>
+    <value type="QString" >INPUTRC=/etc/inputrc</value>
+    <value type="QString" >JAVA_HOME=/usr/local/java/</value>
+    <value type="QString" >KDEDIRS=/usr</value>
+    <value type="QString" >KDE_FULL_SESSION=true</value>
+    <value type="QString" >KDE_IS_PRELINKED=1</value>
+    <value type="QString" >KDE_MULTIHEAD=false</value>
+    <value type="QString" >KDE_SESSION_UID=741</value>
+    <value type="QString" >KONSOLE_DCOP=DCOPRef(konsole-15047,konsole)</value>
+    <value type="QString" >KONSOLE_DCOP_SESSION=DCOPRef(konsole-15047,session-1)</value>
+    <value type="QString" >LANG=en_US.UTF-8</value>
+    <value type="QString" >LC_CTYPE=en_US.UTF-8</value>
+    <value type="QString" >LC_NUMERIC=C</value>
+    <value type="QString" >LD_LIBRARY_PATH=/home/students/jcreechl/lib:/home/students/jcreechl/bin/lib/perl5:.:/home/students/jcreechl/lib:/home/students/jcreechl/bin/lib/perl5:.::/usr/local/java//lib/i386:/usr/local/java//lib/i386</value>
+    <value type="QString" >LESSOPEN=|/usr/bin/lesspipe.sh %s</value>
+    <value type="QString" >LOGNAME=jcreechl</value>
+    <value type="QString" >LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.svgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.dz=00;31:*.gz=00;31:*.bz2=00;31:*.tbz2=00;31:*.bz=00;31:*.tz=00;31:*.deb=00;31:*.rpm=00;31:*.jar=00;31:*.rar=00;31:*.ace=00;31:*.zoo=00;31:*.cpio=00;31:*.7z=00;31:*.rz=00;31:*.jpg=00;35:*.jpeg=00;35:*.gif=00;35:*.bmp=00;35:*.pbm=00;35:*.pgm=00;35:*.ppm=00;35:*.tga=00;35:*.xbm=00;35:*.xpm=00;35:*.tif=00;35:*.tiff=00;35:*.png=00;35:*.mng=00;35:*.pcx=00;35:*.mov=00;35:*.mpg=00;35:*.mpeg=00;35:*.m2v=00;35:*.mkv=00;35:*.ogm=00;35:*.mp4=00;35:*.m4v=00;35:*.mp4v=00;35:*.vob=00;35:*.qt=00;35:*.nuv=00;35:*.wmv=00;35:*.asf=00;35:*.rm=00;35:*.rmvb=00;35:*.flc=00;35:*.avi=00;35:*.fli=00;35:*.gl=00;35:*.dl=00;35:*.xcf=00;35:*.xwd=00;35:*.yuv=00;35:*.svg=00;35:</value>
+    <value type="QString" >MAIL=/var/spool/mail/jcreechl</value>
+    <value type="QString" >MANPATH=/usr/local/mpich2/man::/usr/local/pbs/man:/usr/local/mpich2/man::/usr/local/pbs/man:/usr/local/mpich2/man::/usr/local/pbs/man::/usr/share/pvm3/man:/usr/local/man/:/tmp/jaremy/share/man/:/usr/local/man/:/usr/share/pvm3/man:/usr/local/man/:/tmp/jaremy/share/man/:/usr/share/pvm3/man:/usr/local/man/:/tmp/jaremy/share/man/</value>
+    <value type="QString" >PATH=/mnt/common/jcreechl/lib/qtsdk-2009.01/qt/bin:/home/students/jcreechl/bin/:/mnt/common/jcreechl/bin/:/mnt/common/jcreechl/bin/:/home/students/jcreechl/bin:/usr/local/ant/bin:/usr/local/eclipse/:/usr/local/java/bin:/usr/local/bin:/usr/local/mpich2/bin:/usr/local/pbs/bin:/home/students/jcreechl/bin/:/mnt/common/jcreechl/bin/:/mnt/common/jcreechl/bin/:/home/students/jcreechl/bin:/usr/local/ant/bin:/usr/local/eclipse/:/usr/local/java/bin:/usr/local/bin:/usr/local/mpich2/bin:/usr/local/pbs/bin:/usr/local/bin/:/mnt/common/jcreechl/bin:/home/students/jcreechl/bin/:/mnt/common/jcreechl/bin/:/mnt/common/jcreechl/bin/:/home/students/jcreechl/bin:/usr/local/ant/bin:/usr/local/eclipse/:/usr/local/java/bin:/usr/local/bin:/usr/local/mpich2/bin:/usr/local/pbs/bin:/usr/lib/qt-3.3/bin:/usr/kerberos/bin:/usr/lib/ccache:/mnt/common/jcreechl/bin:/usr/local/bin:/usr/bin:/bin:/home/students/jcreechl/bin:/usr/share/pvm3/lib:/home/students/jcreechl/pvm3/bin/LINUXI386::/usr/local/bin/:.:.:/usr/share/pvm3/lib:/home/students/jcreechl/pvm3/bin/LINUXI386::/usr/local/bin/:.:/usr/share/pvm3/lib:/home/students/jcreechl/pvm3/bin/LINUXI386::/usr/local/bin/:.</value>
+    <value type="QString" >PDSH_RCMD_TYPE=ssh</value>
+    <value type="QString" >PVM_ARCH=LINUXI386</value>
+    <value type="QString" >PVM_DEBUGGER=/usr/share/pvm3/lib/debugger.ddd</value>
+    <value type="QString" >PVM_DPATH=/usr/share/pvm3/lib/pvmd</value>
+    <value type="QString" >PVM_EXPORT=DISPLAY:PATH:PVM_DEBUGGER</value>
+    <value type="QString" >PVM_ROOT=/usr/share/pvm3</value>
+    <value type="QString" >PVM_RSH=/usr/bin/rsh</value>
+    <value type="QString" >PVM_TMP=/tmp</value>
+    <value type="QString" >PWD=/mnt/common/jcreechl/lib/qtsdk-2009.01/bin</value>
+    <value type="QString" >PYTHONPATH=/mnt/common/jcreechl/lib/python2.5/site-packages</value>
+    <value type="QString" >QTDIR=/mnt/common/jcreechl/lib/qtsdk-2009.01/qt</value>
+    <value type="QString" >QTINC=/usr/lib/qt-3.3/include</value>
+    <value type="QString" >QTLIB=/usr/lib/qt-3.3/lib</value>
+    <value type="QString" >SESSION_MANAGER=local/unix:/tmp/.ICE-unix/15003</value>
+    <value type="QString" >SHELL=/bin/zsh</value>
+    <value type="QString" >SHLVL=3</value>
+    <value type="QString" >SSH_AGENT_PID=14949</value>
+    <value type="QString" >SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass</value>
+    <value type="QString" >SSH_AUTH_SOCK=/tmp/ssh-KqJnz14836/agent.14836</value>
+    <value type="QString" >TERM=xterm</value>
+    <value type="QString" >USER=jcreechl</value>
+    <value type="QString" >WINDOWID=35651592</value>
+    <value type="QString" >XAUTHORITY=/tmp/.gdm02CVRU</value>
+    <value type="QString" >XCURSOR_THEME=default</value>
+    <value type="QString" >XDG_CONFIG_DIRS=/etc/kde/xdg:/etc/xdg</value>
+    <value type="QString" >XDG_MENU_PREFIX=kde-</value>
+    <value type="QString" >XDG_SESSION_COOKIE=2855dbca0ad354577a44740048ad4f00-1239217816.757401-2071817024</value>
+    <value type="QString" >XEDITOR=gvim</value>
+    <value type="QString" >XPVM_ROOT=/usr/share/pvm3/xpvm</value>
+    <value type="QString" >_=/mnt/common/jcreechl/lib/qtsdk-2009.01/bin/qtcreator</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList" >
+    <value type="QString" >debug</value>
+    <value type="QString" >-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString" >/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool" >true</value>
+   <value key="abstractProcess.workingDirectory" type="QString" >/mnt/common/jcreechl/src/eggsinstaller</value>
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >debug</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <value key="buildConfiguration" type="int" >8</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep2</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+   <valuelist key="makeargs" type="QVariantList" >
+    <value type="QString" >release</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" >Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >Debug</value>
+   <value type="QString" >Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="mkspec" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep2</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.gdbmaros</value>
+   <value type="QString" >trolltech.qt4projectmanager.qmake</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleanstep1</variable>
+  <valuemap type="QVariantMap" >
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString" ></value>
+   <value key="clean" type="bool" >true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList" >
+   <value type="QString" >trolltech.qt4projectmanager.gdbmaros</value>
+   <value type="QString" >trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray" >System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap" />
+ </data>
+</qtcreator>
